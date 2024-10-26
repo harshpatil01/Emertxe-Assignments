@@ -79,7 +79,3 @@ This section includes assignments on networking concepts and protocols.
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or additional assignments.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
